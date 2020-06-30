@@ -21,3 +21,5 @@ datasheet, we should use 6V but in our project we are going to use Orange Pi 5V 
 because when we use extra power supply, it is going be hard to adjust and we tried to use 5V and
 it was successful.Currently we were working on Raspberry Pi Zero with camera module. We can detect
 angle and color of our obstaclesFurthermore, we can make a route in an obstacle area for our robots.
+
+You can watch my senior project video:
