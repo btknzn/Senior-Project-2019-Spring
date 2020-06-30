@@ -23,3 +23,6 @@ it was successful.Currently we were working on Raspberry Pi Zero with camera mod
 angle and color of our obstaclesFurthermore, we can make a route in an obstacle area for our robots.
 
 You can watch my senior project video:
+
+
+FOR MORE INFORMATİON, please READ WORD Documantation(https://github.com/btknzn/RelayRacingCode/blob/master/BitirmeProjesiRapor1.doc) AND Look our POSTER (https://github.com/btknzn/RelayRacingCode/blob/master/final%20sunumu%20poster.pptx).
